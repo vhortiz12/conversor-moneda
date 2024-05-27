@@ -77,5 +77,5 @@ Este proyecto está bajo la Licencia MIT.
 
 ## Contacto
 
-Desarrollado por Victor Hugo Ortiz Chitiva [vhortiz12]. Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de chitiva1203@gmail.com
+Desarrollado por Victor Hugo Ortiz Chitiva. Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de chitiva1203@gmail.com
 
