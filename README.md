@@ -73,9 +73,9 @@ El valor $100.00 [USD] corresponde al valor de --> $375000.00 [COP]
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT.
 
 ## Contacto
 
-Desarrollado por vhortiz12. Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de chitiva1203@gmail.com
+Desarrollado por Victor Hugo Ortiz Chitiva [vhortiz12]. Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de chitiva1203@gmail.com
 
